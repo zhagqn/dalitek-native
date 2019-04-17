@@ -1,11 +1,19 @@
 {
   "name": "@dalitek/native",
-  "version": "0.0.2",
-  "description": "",
+  "version": "0.0.3",
+  "description": "## 安装 ```bash  yarn add @dalitek/native ``` ```js import native from \"@dalitek/native\" ```",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "zhagqn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhagqn/dalitek-native.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhagqn/dalitek-native/issues"
+  },
+  "homepage": "https://github.com/zhagqn/dalitek-native#readme"
 }
